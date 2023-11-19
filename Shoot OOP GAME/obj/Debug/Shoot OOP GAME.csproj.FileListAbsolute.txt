@@ -1,0 +1,11 @@
+E:\3\Shoot OOP GAME\Shoot OOP GAME\bin\Debug\Shoot OOP GAME.exe.config
+E:\3\Shoot OOP GAME\Shoot OOP GAME\bin\Debug\Shoot OOP GAME.exe
+E:\3\Shoot OOP GAME\Shoot OOP GAME\bin\Debug\Shoot OOP GAME.pdb
+E:\3\Shoot OOP GAME\Shoot OOP GAME\obj\Debug\Shoot OOP GAME.csproj.AssemblyReference.cache
+E:\3\Shoot OOP GAME\Shoot OOP GAME\obj\Debug\Shoot OOP GAME.csproj.SuggestedBindingRedirects.cache
+E:\3\Shoot OOP GAME\Shoot OOP GAME\obj\Debug\Shoot_OOP_GAME.Form1.resources
+E:\3\Shoot OOP GAME\Shoot OOP GAME\obj\Debug\Shoot_OOP_GAME.Properties.Resources.resources
+E:\3\Shoot OOP GAME\Shoot OOP GAME\obj\Debug\Shoot OOP GAME.csproj.GenerateResource.cache
+E:\3\Shoot OOP GAME\Shoot OOP GAME\obj\Debug\Shoot OOP GAME.csproj.CoreCompileInputs.cache
+E:\3\Shoot OOP GAME\Shoot OOP GAME\obj\Debug\Shoot OOP GAME.exe
+E:\3\Shoot OOP GAME\Shoot OOP GAME\obj\Debug\Shoot OOP GAME.pdb
